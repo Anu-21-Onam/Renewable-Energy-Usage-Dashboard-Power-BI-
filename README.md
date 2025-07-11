@@ -22,7 +22,7 @@ The dashboard explores renewable energy usage trends over time and across geogra
   
 # 🚀 Project Highlights
 
-# # 1. Key Performance Indicators (KPIs)
+#  1. Key Performance Indicators (KPIs)
 Metric Name	Description	Example Value
 Total Households	Total number of households using renewable energy	1,000+
 Total Monthly Usage (MWh)	Sum of all households’ energy usage per month	15,000 MWh
@@ -30,27 +30,27 @@ Total Cost Savings (USD)	Total monetary savings due to renewable energy adoption
 Average Savings per Household	Average monthly cost saving per household	$125
 Subsidized Households	Count or % of households receiving subsidies	497 / 800 target
 
-# # 2. Adoption & Trend Metrics
+#  2. Adoption & Trend Metrics
 Metric	Description	Example
 Adoption Year	Year of first-time renewable usage	2010–2024
 Households by Adoption Year	Count of households adopting energy by year	Peak: 2017
 Forecasted Usage	Predicted energy usage for future years	2025: 16,000 MWh
 Actual vs Forecasted Usage	Comparison of real usage and forecast trend	Gap growing post-2022
 
-# # 3. Demographic & Income Metrics
+#  3. Demographic & Income Metrics
 Metric	Description	Breakdown/Example
 Savings by Income Level	Average savings for low, middle, high income groups	Low-income: $145
 Usage by Income Group	Monthly MWh usage grouped by income	Middle-income dominates
 Urban vs Rural Comparison	Usage and savings comparison by region type	Rural: slightly higher
 
-# # 4. Energy Source–Specific Metrics
+#  4. Energy Source–Specific Metrics
 Metric	Description	Example
 Usage by Energy Source	Total usage (MWh) split by source	Solar: 40%
 Savings by Source	Total/avg savings attributed to each energy type	Wind: highest avg
 Energy Mix by Region/Country	Share of each source in specific region	Europe: more Hydro
 Source Contribution (Waterfall)	Net contribution of each source to cost saving	Solar: +$500K
 
-# # 5. Regional Performance Metrics
+#  5. Regional Performance Metrics
 Metric	Description	Example
 Top 5 Countries by Usage	Highest total MWh by country	Australia, Brazil...
 Top 5 Countries by Savings	Countries saving the most money	Australia: $400K
